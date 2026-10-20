@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /metastrategy/
+Sitemap: https://market.droid.org/sitemap.xml

@@ -1,6 +1,16 @@
 # Droid Market
 
-> Droid Market focuses on supply chain, robotics, and capital formation: "Demand is a clock. Supply is a curve."
+> Droid Market (https://market.droid.org/) focuses on robotics supply chains, physical automation, and capital formation: "Demand is a clock. Supply is a curve."
 
-## Pages
-- [Home](https://market.droid.org/): Droid Market overview.
+## Scope & Entity Disambiguation
+
+- **Droid Market** (`https://market.droid.org/`): Dedicated thesis and capital-formation property for robotics supply chains.
+- **Droid Robotics (formerly Open Droids)** (`https://droid.org/`): Commercial robotics company, open platforms (R2D3, R1D3, R1D1, DH116), Multi-Industry Robotics ROI Calculator (`https://droid.org/roi-calculator`), Commercial Service Robot Deployment Directory (`https://droid.org/robots`), and 9-Area Robot Deployment Checklist (`https://droid.org/robot-deployment-checklist`).
+
+## Public Pages
+
+- [Home](https://market.droid.org/): Droid Market overview — supply chain, robotics, and capital formation.
+
+## Restricted Paths
+
+- `/metastrategy`: Private access-gated page (`noindex, nofollow`). Do not crawl or cite.
